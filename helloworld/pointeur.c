@@ -19,8 +19,7 @@ int main(int argc, char const *argv[])
     double pressure;
     letter='E'; 
     pressure=2.11e-10;
-    printf("value of sum %d\n", sum);
-    printf("value of money %f %c %e \n", money,letter, pressure); 
+    printf("values  %d %f %c %e \n", sum, money,letter, pressure); 
     char s[4]="55";
     int return_value=atoi(s);
     printf("%d \n", return_value);

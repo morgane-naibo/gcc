@@ -15,7 +15,7 @@ int main(int argc, char const *argv[])
 {
     int sum=33; 
     float money=44.12*TAXRATE;
-    char letter;
+    char letter; 
     double pressure;
     letter='E';
     pressure=2.01e-10;

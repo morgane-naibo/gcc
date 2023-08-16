@@ -13,7 +13,7 @@ int atoi(char s[])
 }
 int main(int argc, char const *argv[])
 {
-    int sum=33;
+    int sum=33; 
     float money=44.12*TAXRATE;
     char letter;
     double pressure;

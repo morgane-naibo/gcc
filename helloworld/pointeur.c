@@ -17,7 +17,7 @@ int main(int argc, char const *argv[])
     float money=44.12*TAXRATE;
     char letter; 
     double pressure;
-    letter='E'; 
+    letter='K'; 
     pressure=2.11e-10;
     printf("values  %d %f %c %e \n", sum, money,letter, pressure); 
     char s[4]="55";
